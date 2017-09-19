@@ -1,0 +1,49 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "For full documentation visit  mkdocs.org .", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
+            "location": "/#commands", 
+            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Commands"
+        }, 
+        {
+            "location": "/#project-layout", 
+            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "title": "Project layout"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Pericula dum litus ab lanigerosve Aeacidis litore\n\n\nSonum quin retinere o hic\n\n\nLorem markdownum quae. Non cava \nquam laborum claro\n, et ignara valles: caede\nquod auras patria aureus, ramo. Fata Panopesque semel, \nParaetonium mihi\ntellusAndros\n nefas, nescit alas: quaque ambarum ne, in. Nubifer erat pendeat\nvaticinor vincemus \ncepere\n.\n\n\n\n\nQuae non, nemo terras \ninsula patres\n! Fundit est: et qui parvos pudet iamque\ninsiluit me tiliae auribus discedit, crudelius.\n\n\n\n\nHaemum in nec tanti sic\n\n\nTamen tua agit mora \nincurvae te\n fortior imago, \net nondum\nAlcyonen\n! Proles est sed \nquaecumque\n\nnives, bracchia, fuit in Iuppiter tibi quis. Iani fortuna opis, intremuere\ninultae semesarumque tempora furoris verba hoc recuset feri, parentis nec,\n\nexercita\n! \nHic\n quas totiens siluere cessant.\n\n\nbitmapPdf = thermistor(cable_character);\nvar vlog = -1;\nhypermedia_certificate.losslessRadcab = p(sliEupSound, definition, finder(\n        ssh));\n\n\n\nCertamine debuit auras invidiae bicoloribus et pastor\n\n\nTauros noctes tumulumque caput; a currus tumidus laetabere paro; tuta inerti,\ncolunt? Gignis mota! Meo esset.\n\n\n\n\nSim dicam crinibus\n\n\nVela danda amplexus materna capillo verique atris\n\n\nAb cernunt umquam calcataque probaverat Maeonia patruelibus\n\n\nProcumbere pellis fatorum sedens cursus Deianira navigii\n\n\n\n\nPervenientia femineos caede, bis erat accipienda limine prima teste. Mihi\ncontigerant haut limoso enim hunc huic super. Cetera paenituit sternit\nsuccessibus concidit, infelix fameque illo melioris crine exul afuerunt iugulum:\nin \nurbis\n.", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#pericula-dum-litus-ab-lanigerosve-aeacidis-litore", 
+            "text": "", 
+            "title": "Pericula dum litus ab lanigerosve Aeacidis litore"
+        }, 
+        {
+            "location": "/about/#sonum-quin-retinere-o-hic", 
+            "text": "Lorem markdownum quae. Non cava  quam laborum claro , et ignara valles: caede\nquod auras patria aureus, ramo. Fata Panopesque semel,  Paraetonium mihi\ntellusAndros  nefas, nescit alas: quaque ambarum ne, in. Nubifer erat pendeat\nvaticinor vincemus  cepere .   Quae non, nemo terras  insula patres ! Fundit est: et qui parvos pudet iamque\ninsiluit me tiliae auribus discedit, crudelius.", 
+            "title": "Sonum quin retinere o hic"
+        }, 
+        {
+            "location": "/about/#haemum-in-nec-tanti-sic", 
+            "text": "Tamen tua agit mora  incurvae te  fortior imago,  et nondum\nAlcyonen ! Proles est sed  quaecumque \nnives, bracchia, fuit in Iuppiter tibi quis. Iani fortuna opis, intremuere\ninultae semesarumque tempora furoris verba hoc recuset feri, parentis nec, exercita !  Hic  quas totiens siluere cessant.  bitmapPdf = thermistor(cable_character);\nvar vlog = -1;\nhypermedia_certificate.losslessRadcab = p(sliEupSound, definition, finder(\n        ssh));", 
+            "title": "Haemum in nec tanti sic"
+        }, 
+        {
+            "location": "/about/#certamine-debuit-auras-invidiae-bicoloribus-et-pastor", 
+            "text": "Tauros noctes tumulumque caput; a currus tumidus laetabere paro; tuta inerti,\ncolunt? Gignis mota! Meo esset.   Sim dicam crinibus  Vela danda amplexus materna capillo verique atris  Ab cernunt umquam calcataque probaverat Maeonia patruelibus  Procumbere pellis fatorum sedens cursus Deianira navigii   Pervenientia femineos caede, bis erat accipienda limine prima teste. Mihi\ncontigerant haut limoso enim hunc huic super. Cetera paenituit sternit\nsuccessibus concidit, infelix fameque illo melioris crine exul afuerunt iugulum:\nin  urbis .", 
+            "title": "Certamine debuit auras invidiae bicoloribus et pastor"
+        }
+    ]
+}
