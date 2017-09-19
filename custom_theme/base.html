@@ -4,7 +4,7 @@
     <title>{% if page_title %}{{ page_title }} - {% endif %}{{ site_name }}</title>
   </head>
   <body>
-{% if nav|length>1 %}
+
     <ul>
     {% for nav_item in nav %}
         {% if nav_item.children %}
@@ -24,8 +24,8 @@
         {% endif %}
     {% endfor %}
     </ul>
-{% endif %}
-  
+
+
     {{ content }}
   </body>
 </html>
