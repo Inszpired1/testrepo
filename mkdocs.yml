@@ -3,3 +3,4 @@ pages:
 - Home: index.md
 - About: about.md
 - Shane Test Here: shane.md
+extra_css: [extra.css]
