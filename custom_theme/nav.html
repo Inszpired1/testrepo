@@ -3,7 +3,7 @@
 
         <!-- Collapsed navigation -->
         <div class="navbar-header">
-            {%- if nav|length>1 or (page and (page.next_page or page.previous_page)) or config.repo_url %}
+          
             <!-- Expander button -->
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                 <span class="sr-only">Toggle navigation</span>
@@ -11,7 +11,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            {%- endif %}
+          
 
           {%- block site_name %}
             <a class="navbar-brand" href="{{ nav.homepage.url }}">{{ config.site_name }}</a>
