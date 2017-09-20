@@ -31,7 +31,7 @@
   <link rel="stylesheet" href="https://yui-s.yahooapis.com/pure/0.6.0/pure-min.css">
 
   <link rel="stylesheet" href="{{ base_url }}/css/theme.css">
-  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/~css.css">
   <!--
     extra_ess contains paths to CSS files in the users
     documentation directory or a list of CSS files defined in
@@ -48,7 +48,7 @@
     the root of the documentation.
   -->
   <script src="{{ base_url }}/js/theme.js"></script>
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
   <!--
     extra_javascript contains paths to JavaScript files in the
     users documentation directory or a list of JavaScript files
@@ -77,13 +77,12 @@
   {% block extrahead %}
   {% endblock %}
   
-  <nav class="w3-sidebar w3-bar-block w3-gray">
+  <nav>
   <img class="logo" src="https://www.version1.com/V1/media/Version1/SAM-micro/version1logo_1.png?width=200&height=85&ext=.png" />
   <ul>
   {% for nav_item in nav %}
     {% include "nav.html" %}
   {% endfor %}
-  
   </ul>
   </nav>
   <h1 style="float:right;">Version1 Cloud Services Portfolio Repo</h1>
