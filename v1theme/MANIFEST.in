@@ -1,0 +1,7 @@
+.
+|-- MANIFEST.in
+|-- v1theme
+|   |-- __init__.py
+|   |-- main.html
+|   |-- styles.css
+`-- setup.py
