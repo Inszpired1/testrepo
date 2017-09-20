@@ -86,13 +86,13 @@
   
   </ul>
   </nav>
-  <h1 style="float:right;">Version1 Cloud Services Portfolio Repo</h1>
+  
 </head>
 
 <body>
 <div id="pageinfo">
 
-
+<h1>Version1 Cloud Services Portfolio Repo</h1>
 
   <!--
     Implement the previous and next links to cycle through the pages.
@@ -100,7 +100,7 @@
  
 
   <hr/>
-  
+  <nav class="w3-bar w3-bar-block w3-gray">
   <ul>
   {% for toc_item in toc %}
       <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
@@ -109,7 +109,7 @@
       {% endfor %}
   {% endfor %}
   </ul>
-
+</nav>
 <hr>
 
 <div id="content">
