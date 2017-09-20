@@ -90,7 +90,7 @@
 </head>
 
 <body>
-
+<div id="pageinfo">
 
 
 
@@ -100,7 +100,7 @@
  
 
   <hr/>
-  <h2>Show the table of contents for the current page</h2>
+  
   <ul>
   {% for toc_item in toc %}
       <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
@@ -110,10 +110,8 @@
   {% endfor %}
   </ul>
 
-  <hr/>
+<hr>
 
-
-  <hr/>
 <div id="content">
   {% block content %}
     {{ content }}
@@ -161,7 +159,7 @@
   MkDocs version      : {{ mkdocs_version }}
   Docs Build Date UTC : {{ build_date_utc }}
   -->
-
+</div>
 </body>
 
 </html>
