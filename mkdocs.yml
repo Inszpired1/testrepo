@@ -3,4 +3,3 @@ pages:
 - Home: index.md
 - About: about.md
 - Shane Test Here: shane.md
-theme_dir: 'custom_theme'
