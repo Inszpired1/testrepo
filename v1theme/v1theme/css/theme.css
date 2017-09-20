@@ -33,27 +33,20 @@ li a:hover {
 background-color:white;
 padding-left:15em; 
 width:80%;} 
-#subpage ul {
+
+#subnav-ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-     background-color: #fff;
+    background-color: #dddddd;
 }
 
-#subpage li {
+#subnav-li {
     float: left;
 }
 
-#subpage li a {
+#subnav-li a {
     display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+    padding: 8px;
 }
-
-#subpage li a:hover {
-    background-color: #111;
-}
-#content{ }

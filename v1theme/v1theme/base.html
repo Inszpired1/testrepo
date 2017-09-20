@@ -100,10 +100,10 @@
  
 
   <hr/>
-  <nav class="w3-bar w3-bar-block w3-gray">
-  <ul>
+  <nav id="subnav" style="background-color:white;">
+  <ul style="display:inline; list-style-type: none; margin: 0; padding: 0;overflow: hidden; background-color: #dddddd;">
   {% for toc_item in toc %}
-      <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+      <li style="float:left;"><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
       {% for toc_item in toc_item.children %}
           <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
       {% endfor %}
